@@ -2,7 +2,7 @@
 This was Croix-Create's second capstone project for Python. It's purpose was to teach a familiarity towards libraries and the learning of them. This particular library is Pygame, a well documented coding library for creating games. This was the very first game Croix-Create, well, created.
 
 ## The Theme
-The theme of the game was inspired by Monty Python's The Holy Grail. A fitting inspiration, considering where Monty Python's namesake comes from. You play as a picture of a pig, who must dodge the spooky skeletons and get to the Holy Grail to win.
+The theme of the game was inspired by Monty Python's The Holy Grail. A fitting inspiration, considering where Python's namesake comes from. You play as a picture of a pig, who must dodge the spooky skeletons and get to the Holy Grail to win.
 
 ## The Objective
 The objective of the project was to allow the player to move left, right, up and down while there are enemy objects accelerating towards the player obejct. A prize object had to be created as a requirement to win the game. Hitboxes had to be createed to allow for interactivity.
